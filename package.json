@@ -6,6 +6,19 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Insig Health",
+  "keywords": [
+    "insig",
+    "insig-health",
+    "node",
+    "elements"
+  ],
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
+  "bugs": {
+    "url": "https://github.com/insig-health/elements/issues"
+  },
+  "homepage": "https://github.com/insig-health/elements#readme",
   "license": "ISC"
 }
