@@ -1,0 +1,11 @@
+{
+  "name": "@insig-health/elements",
+  "version": "1.0.0",
+  "description": "Embeddable Insig Widgets",
+  "main": "insig-elements.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
