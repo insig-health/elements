@@ -4,7 +4,8 @@
   "description": "Embeddable Insig Widgets",
   "main": "insig-elements.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "postversion": "git add -A &&  git commit -m 'upgrade' && git push"
   },
   "author": "Insig Health",
   "keywords": [
