@@ -1,6 +1,6 @@
 {
   "name": "@insig-health/elements",
-  "version": "1.1.5",
+  "version": "1.1.6",
   "description": "Embeddable Insig Widgets",
   "main": "insig-elements.js",
   "scripts": {
@@ -15,12 +15,13 @@
     "node",
     "elements"
   ],
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
-  },
   "bugs": {
     "url": "https://github.com/insig-health/elements/issues"
   },
   "homepage": "https://github.com/insig-health/elements#readme",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/insig-health/elements.git"
+  }
 }
